@@ -1,0 +1,7 @@
+Pulse Event
+
+Action: Send Notification Through HTTP
+
+http://IP/axis-cgi/opticssetup.cgi?autofocus=perform&source=1
+
+Condition: pulse
